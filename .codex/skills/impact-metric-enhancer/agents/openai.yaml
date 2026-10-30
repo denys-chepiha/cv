@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impact Metric Enhancer"
+  short_description: "Strengthen bullets with credible impact metrics"
+  default_prompt: "Use $impact-metric-enhancer to improve these resume bullets."

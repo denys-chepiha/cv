@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown to PDF Generator"
+  short_description: "Convert markdown resumes into clean PDF output"
+  default_prompt: "Use $markdown-to-pdf-generator to render this Markdown resume to PDF."

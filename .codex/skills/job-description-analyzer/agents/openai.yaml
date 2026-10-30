@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Description Analyzer"
+  short_description: "Extract requirements, signals, and keywords from JDs"
+  default_prompt: "Use $job-description-analyzer to break down this job description."

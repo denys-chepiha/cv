@@ -1,0 +1,4 @@
+interface:
+  display_name: "STAR Method Editor"
+  short_description: "Turn raw experience notes into STAR-based stories"
+  default_prompt: "Use $star-method-editor to turn these notes into a strong STAR story and resume bullet."

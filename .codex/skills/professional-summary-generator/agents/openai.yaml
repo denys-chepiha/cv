@@ -1,0 +1,4 @@
+interface:
+  display_name: "Professional Summary Generator"
+  short_description: "Generate targeted professional summary variants"
+  default_prompt: "Use $professional-summary-generator to create a summary for this target role."

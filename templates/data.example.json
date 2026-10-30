@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "company": "Example Company",
+    "role": "Software Engineer",
+    "date": "2026-01-01",
+    "template": "modern-clean",
+    "notes": "Fictional example only. Replace with verified local candidate facts."
+  },
+  "personal": {
+    "name": "Example Candidate",
+    "title": "Software Engineer",
+    "email": "candidate@example.com",
+    "phone": "",
+    "location": "Example City, Example Country",
+    "linkedin": "",
+    "github": "",
+    "website": "example.com"
+  },
+  "summary": "Replace this example with a short factual summary tailored to one target role.",
+  "experience": [
+    {
+      "company": "Example Company",
+      "role": "Software Engineer - Example Product",
+      "period": "Example dates",
+      "location": "Example location",
+      "stack": "JavaScript, Node.js",
+      "bullets": [
+        "Describe the product and scope using verified facts.",
+        "Describe a verified action and outcome without inventing metrics.",
+        "Technologies: JavaScript, Node.js"
+      ]
+    }
+  ],
+  "skills": {
+    "Engineering": [
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "education": [],
+  "certifications": [],
+  "languages": [],
+  "coverLetter": {
+    "en": {
+      "date": "1 January 2026",
+      "recipient": "Hiring Team",
+      "company": "Example Company",
+      "subject": "Application for the Software Engineer role",
+      "greeting": "Dear Hiring Team,",
+      "paragraphs": [
+        "Replace this example with a tailored letter based on verified candidate facts."
+      ],
+      "closing": "Sincerely,",
+      "signature": "Example Candidate"
+    },
+    "ru": {
+      "date": "1 January 2026",
+      "recipient": "Hiring Team",
+      "company": "Example Company",
+      "subject": "Application for the Software Engineer role",
+      "greeting": "Dear Hiring Team,",
+      "paragraphs": [
+        "Replace this placeholder with a Russian translation for meaning review."
+      ],
+      "closing": "Sincerely,",
+      "signature": "Example Candidate"
+    }
+  }
+}

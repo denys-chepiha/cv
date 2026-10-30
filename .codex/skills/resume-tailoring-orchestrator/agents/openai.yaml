@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Tailoring Orchestrator"
+  short_description: "Coordinate end-to-end resume tailoring workflows"
+  default_prompt: "Use $resume-tailoring-orchestrator to tailor my resume end to end for this role."

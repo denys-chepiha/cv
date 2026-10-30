@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Template Mapper"
+  short_description: "Map resume content into a target template structure"
+  default_prompt: "Use $resume-template-mapper to fit this resume into the target template."

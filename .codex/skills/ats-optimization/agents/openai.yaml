@@ -1,0 +1,4 @@
+interface:
+  display_name: "ATS Optimization Skill"
+  short_description: "Optimize resumes for ATS matching and parsing"
+  default_prompt: "Use $ats-optimization to tailor this resume to a target job description."
