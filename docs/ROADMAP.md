@@ -16,4 +16,4 @@ Verification: `npm test`, `npm run check:privacy`, `git diff --cached --check`, 
 - [x] Generalize instructions and examples, preserving local candidate files.
 - [x] Document the workflow and component boundaries.
 - [x] Verify the allowlist, source tree, and fictional sample generation.
-- [ ] Publish only the reviewed clean history to a private repository.
+- [x] Publish only the reviewed clean history to a private repository.
